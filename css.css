@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+.container{
+    text-align: center;
+    margin-top: 80px; 
+      
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 20px;
+    border-width: 4px;
+    border-radius: 10px;
+    text-align: right;
+    padding-right: 0.3cm;    
+   
+}
+button{
+    color: cornflowerblue;
+    background-color: rgb(107 96 96);
+    height: 39px;
+    width: 61px;
+    box-shadow: 20px;
+    font-size: 21px;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: white
+}
+.calculator{
+    display: inline-block;
+    border-radius: 1px;  
+    color: aqua;  
+}
+#backspace{
+    margin-top: 0.2cm;
+    width:255px ;
+}
